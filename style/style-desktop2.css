@@ -23,3 +23,17 @@ main {
 
     width: 20rem;
 }
+
+/* container avec grid */
+
+
+.container {
+
+    background-color: white;
+    border-radius: 1rem;
+    height: 22rem;
+    width: 24rem;
+    box-shadow: 0px 0px 20px #FFFFFF;
+    display: grid;
+    grid-template-columns: repeat(4, 25% [col-start]);
+}
