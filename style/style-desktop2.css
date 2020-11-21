@@ -1,0 +1,25 @@
+/* BODY */
+
+body {
+
+    background-color: #FFC000;
+    ;
+}
+
+
+/* MAIN */
+
+main {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* LOGO */ 
+
+.logo {
+
+    width: 20rem;
+}
